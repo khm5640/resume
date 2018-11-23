@@ -8,6 +8,6 @@ _수강 과목_
 * * * * * *
 ### My Plan
 1. Java / MOS 9개월 IT수업 수강
-![MOS](MOS.jpg)
+> ![MOS](MOS.jpg)
 2. 컴활 자격증 따기
-![컴활](컴활.png)
+> ![컴활](컴활.png)
