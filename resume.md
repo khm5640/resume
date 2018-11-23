@@ -3,8 +3,8 @@
 ************************
 _수강 과목_
 > ![python](python-1.png)
-> ![javascript](자바스크립트.png)
-> ![java](자바.PNG)
+>> ![javascript](자바스크립트.png)
+>>> ![java](자바.PNG)
 * * * * * *
 ### My Plan
 1. Java / MOS 9개월 IT수업 수강
